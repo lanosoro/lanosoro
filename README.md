@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white
+`https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white`
 
 <!--
 **lanosoro/lanosoro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
